@@ -1,1 +1,8 @@
+@media(max-width:670px){
+    .header{
+      width:100%;
+  }
+  .table-of-contents{
+    width:80%;
 
+}
