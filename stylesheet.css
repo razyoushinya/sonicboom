@@ -43,6 +43,15 @@ a{
   color:#ffffff;
   margin:10px 12px 0 8px;
 }
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display:none;
+}
+
 .top-wrapper{
   text-align: center;
   background-image:url("https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqGw_0zWP18C2B7k5BXYgRD64O1c2D9qLP3v-MnGm7ibobUoTH4kKM_-BNpeHk1KH67C84zU2j0pB5YxlM9LbWXayFaGw5uUts-UKCkfOptBY-ZHdRUuynZCI3utL0zxqJ2B6DbW-4MlhXtqbvPUHOgro1q8AvvI-QnEfvLAWpcAd2Iy6p8lZjg1KJeXQwkCpoTXQ5kRkoLB0D8z-71dkljMhvBKH_QpG2Xi9apxI6-Yvclor0wdiHJJjJxb2i1Yy7Lm_foC8OkmymnTf_kR99uxM=/692afe90-d629-11ea-8c7d-c271f42d3a6f?errorImage=false");
