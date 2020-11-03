@@ -1,3 +1,7 @@
+*{
+  box-sizing:border-box;
+}
+
 body{
   padding:0;
   margin:0;
@@ -12,6 +16,7 @@ a{
   height:80px;
   margin-bottom:0px;
   position: fixed;
+  z-index:999px;
   width:100%;
   padding:0px;
   margin: 0px;
@@ -50,7 +55,8 @@ span{
   color:#ff0000;
 }
 .contents{
-
+  background-color: #000022ff;
+  padding: 20px 20px;
   padding-top:20px;
   width:100%;
 }
@@ -60,15 +66,9 @@ h1{
   color:#ffffff;
 
 }
-.contents{
-  background-color: #000022ff;
-  padding: 20px 20px;
-}
-
-
-
+  
 .main-wrapper{
-  width: 1100px;
+  width: 100%;
   margin: 0 auto;
   background-color:#ffffff;
   margin-top:50px;
